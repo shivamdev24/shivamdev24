@@ -20,15 +20,16 @@
 </p>
 
 
-
 <h3 align="left">What I know -> </h3>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,bootstrap,tailwind,materialui,react,redux,vite,nextjs)](https://skillicons.dev)
 
 
 <h3 align="left">Tools I Use</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=firebase,git,github,vscode,linux,vercel)](https://skillicons.dev)
 
 
 <h3 align="left">What I am learning?</h3>
-[![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,express,mongodb,mysql,postgress,postman)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,express,mongodb,mysql,postgress,postman)](https://skillicons.dev)
