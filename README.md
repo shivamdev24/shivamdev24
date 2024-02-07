@@ -32,4 +32,4 @@
 
 <h3 align="left">What I am learning?</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,express,mongodb,mysql,postgress,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,express,mongodb,mysql,postgres,postman)](https://skillicons.dev)
