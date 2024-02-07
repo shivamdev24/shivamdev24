@@ -23,4 +23,4 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-https://skillicons.dev/icons?i=html,css,sass,js,ts,bootstrap,tailwind,materialui,react,redux,vite,nextjs,nodejs,express,mongodb,firebase,git,github,postman,vscode,vercel,discord,i=html,css,sass,js,ts,bootstrap,tailwind,materialui,react,redux,vite,nextjs,nodejs,express,mongodb,firebase,git,github,postman,vscode,vercel,discord,)
+https://skillicons.dev/icons?i=html,css,sass,js,ts,bootstrap,tailwind,materialui,react,redux,vite,nextjs,nodejs,express,mongodb,firebase,git,github,postman,vscode,vercel,discord,i=html,css,sass,js,ts,bootstrap,tailwind,materialui,react,redux,vite,nextjs,nodejs,express,mongodb,firebase,git,github,postman,vscode,vercel,discord
