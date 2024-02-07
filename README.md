@@ -22,7 +22,7 @@
 
 <h3 align="left">What I know -> </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,bootstrap,tailwind,materialui,react,redux,vite,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,bootstrap,tailwind,materialui,react,redux,vite)](https://skillicons.dev)
 
 
 <h3 align="left">Tools I Use</h3>
