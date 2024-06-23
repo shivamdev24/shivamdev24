@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shivamdev24" target="blank"><img src="https://img.shields.io/twitter/follow/shivamdev24?logo=twitter&style=for-the-badge" alt="shivamdev24" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs, backend,**
+- 🌱 I’m currently learning **NextJs**
 
 - 👨‍💻 All of my projects are available at [https://shivam-sharma.vercel.app/](https://shivam-sharma.vercel.app/)
 
