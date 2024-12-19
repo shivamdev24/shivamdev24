@@ -18,11 +18,13 @@
 
 ---
 
-### My Achievements 🎉
-- 🏆 **Winner** of [XYZ Coding Challenge](#) (Year)
-- 🖥️ Featured in [Tech Blog](#) for my project on React and Redux
-- 💡 **Open Source Contributor**: Contributed to popular repositories like [Repository Name](#)
-- 🎓 **Certified in Web Development** from [Institute Name](#)
+### Achievements and Milestones 🚀
+- Constantly learning and improving my skills in **Wev Development**.
+- Currently working on mastering **Next.js** and **React** to build more dynamic and scalable applications.
+- Exploring modern tools and technologies like **Docker**, **Kubernetes**, and **CI/CD** to enhance my development workflow.
+- Looking forward to contributing to open-source projects and expanding my contributions in the tech community.
+
+Stay tuned for more updates as I work on exciting new projects and achievements!
 
 ---
 
