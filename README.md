@@ -27,30 +27,6 @@
 
 ---
 
-### Achievements and Milestones 🚀
-- Constantly learning and improving my skills in **Wev Development**.
-- Currently working on mastering **Next.js** and **React** to build more dynamic and scalable applications.
-- Exploring modern tools and technologies like **Docker**, **Kubernetes**, and **CI/CD** to enhance my development workflow.
-- Looking forward to contributing to open-source projects and expanding my contributions in the tech community.
-
-Stay tuned for more updates as I work on exciting new projects and achievements!
-
----
-
-### Some Fun Facts 🤩
-- I absolutely **love website building**, especially working with both frontend and backend to create full-stack applications.
-- I'm trying to solve as many **LeetCode questions** as I can to sharpen my problem-solving skills.
-- When I'm not coding, I **do nothing**—just enjoying the calm and relaxation! 😄
-- When I'm not coding, you’ll find me **exploring new tech trends** or **playing chess** to relax my mind.
-
----
-### Featured Projects 🚀
-Currently, I don't have any personal projects to showcase. However, I am constantly working on improving my skills and learning new technologies!
-
-Feel free to check out my [GitHub Profile](https://github.com/shivamdev24) for any future open-source contributions and projects.
-
----
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shivamdev24"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shivamdev24" /></a></p><br><br>
 
